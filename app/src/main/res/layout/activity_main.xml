@@ -64,22 +64,6 @@
             </com.google.android.material.textfield.TextInputLayout>
 
             <com.google.android.material.textfield.TextInputLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                app:boxBackgroundMode="none"
-                app:boxCollapsedPaddingBottom="@dimen/mtrl_textinput_filled_box_collapsed_padding_dense"
-                app:boxCollapsedPaddingTop="@dimen/mtrl_textinput_filled_box_collapsed_padding_dense"
-                app:boxExpandedPaddingBottom="@dimen/mtrl_textinput_filled_box_collapsed_padding_dense"
-                app:boxExpandedPaddingTop="@dimen/mtrl_textinput_filled_box_collapsed_padding_dense">
-
-                <com.google.android.material.textfield.TextInputEditText
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:hint="none dense" />
-
-            </com.google.android.material.textfield.TextInputLayout>
-
-            <com.google.android.material.textfield.TextInputLayout
                 style="@style/Widget.MaterialComponents.TextInputLayout.FilledBox"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content">
